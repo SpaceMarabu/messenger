@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="telegramKiller">TelegramKiller</string>
+    <string name="email">email:</string>
+    <string name="password">password:</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="register">Register</string>
+    <string name="sign_out">Sign out</string>
+    <string name="registration">Registration</string>
+    <string name="name">name</string>
+    <string name="last_name">last name</string>
+    <string name="your_age">your age</string>
+    <string name="sign_up">Sign up</string>
+    <string name="reset_password">Reset password</string>
+    <string name="send_email">send email</string>
+    <string name="type_your_message">type your message</string>
+</resources>

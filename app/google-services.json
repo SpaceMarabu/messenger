@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "690480620964",
+    "firebase_url": "https://messenger-de3b7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "messenger-de3b7",
+    "storage_bucket": "messenger-de3b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690480620964:android:2971dd0c2b9482d8a34d31",
+        "android_client_info": {
+          "package_name": "com.example.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690480620964-modkrgokqbrqb94t5sdp8li30i1ojr5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe0yF3QsT-92jzbLZdZybLEjkFOMNh_Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690480620964-modkrgokqbrqb94t5sdp8li30i1ojr5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
